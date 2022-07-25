@@ -1,0 +1,33 @@
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 90px;
+    background-color: #4A2B33;
+    color: #D27487;
+}
+
+.nav-logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.nav-logo h2{
+    margin-left: 0.5rem;
+}
+
+.nav-links a {
+    padding: 10px;
+    font-size: 1.5rem;
+}
+
+@media screen and (max-width: 576px) {
+
+    .nav-bar {
+        flex-direction: column;
+        height: 200px;
+    }
+
+}

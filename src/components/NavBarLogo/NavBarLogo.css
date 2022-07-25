@@ -1,0 +1,16 @@
+.nav-bar-logo{
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    background-color: #4A2B33;
+}
+
+@media screen and (max-width: 576px) {
+
+    .nav-bar-logo img{
+      width: 300px; 
+      padding: 0 2rem 0 2rem 0; 
+    }
+
+}
+
