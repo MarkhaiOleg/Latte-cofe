@@ -5,6 +5,8 @@ import NavBarLogo from './components/NavBarLogo/NavBarLogo';
 import Menu from './components/Menu/Menu';
 import WorkingHours from './components/working hours/WorkingHours';
 import Appearance from './components/Appearance/Appearance';
+import Award from './components/Award/Award';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -15,6 +17,8 @@ function App() {
       <Menu />
       <WorkingHours />
       <Appearance />
+      <Award />
+      <Footer />
     </div>
   );
 }

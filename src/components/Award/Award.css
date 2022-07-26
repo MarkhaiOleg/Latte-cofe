@@ -1,0 +1,22 @@
+.award{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5rem;
+    background-color: #4A2B33;
+}
+
+.award-left-side{
+    width: 50vw;
+}
+
+.award-left-side span{
+    color: #D27487;
+    font-size: 1.3rem;
+}
+
+.award-right-side h2{
+    color: #D27487;
+    font-size: 2rem;
+    font-style: bold;
+}

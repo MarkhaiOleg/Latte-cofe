@@ -1,0 +1,29 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5rem;
+}
+
+.footer-top,
+.footer-bottom,
+.footer-finaly{
+    margin: 1rem;
+}
+
+.footer-top a,
+.footer-bottom a,
+.footer-finaly a{
+    margin: 1rem;
+    padding: 1rem;
+    color: #D27487;
+    text-decoration: none;
+}
+
+.footer-top a:hover,
+.footer-bottom a:hover,
+.footer-finaly a:hover{
+    color: #4A2B33;
+    text-decoration: underline;
+}
