@@ -20,3 +20,9 @@
     font-size: 2rem;
     font-style: bold;
 }
+
+@media screen and (max-width: 576px) {
+    .award-left-side{
+        margin-left:2rem ;
+    }
+}

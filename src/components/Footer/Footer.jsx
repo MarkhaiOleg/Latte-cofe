@@ -22,7 +22,7 @@ const Footer = () => {
                 <a href="">Password</a>
                 <a href="">404</a>
             </div>
-            <div className="footer-finaly">
+            <div className="footer-end">
                 <a href="">© Latte Cafe 2022.</a>
                 <a href="">Built by Nikolai Bain</a>
                 <a href="">Powered by Webflow</a>
